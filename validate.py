@@ -27,6 +27,4 @@ def validate(val = []):
             print( "Correct password :"+p)
             pass
         #val.append(p)
-
-
 validate(["d#%%ZZcdc","sDD$$" ])
